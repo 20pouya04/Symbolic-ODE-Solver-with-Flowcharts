@@ -4,7 +4,7 @@ A Python tool (**SymPy + Graphviz**) that symbolically solves **second-order
 linear ODEs** — both **constant-coefficient** and **Cauchy–Euler** forms —
 and automatically renders the corresponding solution-method flowchart.
 
-**Status:** Course Project, Differential Equations (2024)
+**Status:** Course Project, Differential Equations (2026)
 
 ## Background
 
